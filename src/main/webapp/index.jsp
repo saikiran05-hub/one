@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Sai Kiran Arrolla - DevOps Engineer</h1>
+        <h1>Surya Ramya - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
